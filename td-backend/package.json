@@ -1,0 +1,10 @@
+{
+    "name": "td-backend",
+    "version": "1.0",
+    "type": "module",
+    "author": "aboubaker elboubkry",
+    "main": "ex1.js",
+    "dependencies": {
+        "express": "^5.3.0"
+    }
+}
